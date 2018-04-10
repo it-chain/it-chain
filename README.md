@@ -1,6 +1,6 @@
 # it-chain
 
-it-chain is lightweight and customizable chain for all
+> it-chain is lightweight and customizable chain for all
 
 ## Table of Contents
 
